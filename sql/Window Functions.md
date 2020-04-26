@@ -4,6 +4,7 @@ General Elections were held in the UK in 2015 and 2017. Every citizen votes in a
 
 All these results are recorded in a table **ge**
 
+![](https://github.com/jasonmchlee/sql-practice/blob/master/sql/table5.png)
 
 ### Show the lastName, party and votes for the constituency 'S14000024' in 2017.
 
