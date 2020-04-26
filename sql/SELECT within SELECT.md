@@ -1,6 +1,6 @@
 # SELECT within SELECT
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e53e3a0-e798-4181-893c-37caa4c519ec/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e53e3a0-e798-4181-893c-37caa4c519ec/Untitled.png)
+![](https://github.com/jasonmchlee/sql-practice/blob/master/sql/table1.png)
 
 ### List each country name where the population is larger than that of 'Russia'.
 
