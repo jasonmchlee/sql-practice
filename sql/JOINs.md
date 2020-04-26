@@ -1,4 +1,6 @@
 # JOINs
+![](https://github.com/jasonmchlee/sql-practice/blob/master/sql/db1.png)
+![](https://github.com/jasonmchlee/sql-practice/blob/master/sql/table2.png)
 
 ### Identify German players
 
