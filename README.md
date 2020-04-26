@@ -3,10 +3,10 @@
 ## SQL ZOO
 - [`SELECT` within `SELECT`](https://github.com/jasonmchlee/sql-practice/blob/master/sql/SELECT%20within%20SELECT.md)
 - `SUM` and `COUNT`
-- `JOIN` Operator
-- `NSS Tutorial`
-- Window Functions
-- Self Join
+- [`JOIN` Operator](https://github.com/jasonmchlee/sql-practice/blob/master/sql/JOINs.md)
+- [`NSS Tutorial`](https://github.com/jasonmchlee/sql-practice/blob/master/sql/NSS%20tutorial.md)
+- [Window Functions](https://github.com/jasonmchlee/sql-practice/blob/master/sql/Window%20Functions.md)
+- [Self Join](https://github.com/jasonmchlee/sql-practice/blob/master/sql/Self%20Joins.md)
 
 ## Hacker Rank
 
